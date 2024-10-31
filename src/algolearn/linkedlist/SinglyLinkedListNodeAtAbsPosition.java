@@ -1,5 +1,4 @@
-package dineshvariyani.linkedlist;
-
+package algolearn.linkedlist;
 public class SinglyLinkedListNodeAtAbsPosition {
 
 	public static void main(String[] args) {

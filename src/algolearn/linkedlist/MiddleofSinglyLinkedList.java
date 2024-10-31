@@ -1,4 +1,4 @@
-package dineshvariyani.linkedlist;
+package algolearn.linkedlist;
 
 public class MiddleofSinglyLinkedList {
 

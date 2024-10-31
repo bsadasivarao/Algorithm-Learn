@@ -1,8 +1,7 @@
 /**
  * 
  */
-package dineshvariyani.linkedlist;
-
+package algolearn.linkedlist;
 /**
  * 
  */

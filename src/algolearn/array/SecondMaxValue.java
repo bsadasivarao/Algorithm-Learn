@@ -1,4 +1,4 @@
-package dineshvariyani.array;
+package algolearn.array;
 
 import java.util.Iterator;
 

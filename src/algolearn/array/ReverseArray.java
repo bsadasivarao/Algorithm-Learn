@@ -1,4 +1,4 @@
-package dineshvariyani.array;
+package algolearn.array;
 
 public class ReverseArray {
 

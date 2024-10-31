@@ -1,5 +1,4 @@
-package dineshvariyani.linkedlist;
-
+package algolearn.linkedlist;
 public class SinglyLinkedListSize {
 
 	public static void main(String[] args) {
