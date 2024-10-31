@@ -71,5 +71,36 @@ public class SinglyLinkedListData {
 		
 	}
 
+	public static SinglyLinkedList getSortedSinglyLinkedList(){
+		SinglyLinkedList singlyLinkedList=new SinglyLinkedList();
+		singlyLinkedList.setValue(1);
+		
+		SinglyLinkedList s1=new SinglyLinkedList();
+		s1.setValue(4);
+		singlyLinkedList.setNext(s1);
+		
+		SinglyLinkedList s2=new SinglyLinkedList();
+		s2.setValue(6);
+		s1.setNext(s2);
+
+		SinglyLinkedList s3=new SinglyLinkedList();
+		s3.setValue(7);
+		s2.setNext(s3);
+		
+		SinglyLinkedList s4=new SinglyLinkedList();
+		s4.setValue(9);
+		s3.setNext(s4);
+		
+		SinglyLinkedList s5=new SinglyLinkedList();
+		s5.setValue(11);
+		s4.setNext(s5);
+
+		SinglyLinkedList s6=new SinglyLinkedList();
+		s6.setValue(15);
+		s5.setNext(s6);
+
+		return singlyLinkedList;
+		
+	}
 
 }
